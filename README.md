@@ -1,2 +1,6 @@
-# learning_reveals_invisible_structure_lr_rnns
-Code for the paper "Learning Reveals Invisible Structure in Low-Rank RNNs" by Yoav Ger &amp; Omri Barak (2026)
+# Learning Reveals Invisible Structure in Low-Rank RNNs
+Code accompanying the paper in which we derive exact learning-dynamics equations for low-rank RNNs (linear and nonlinear) and use them to study phenomena such as degeneracy and memory, yielding testable predictions for biological experiments.
+
+<!-- ![Framework](https://github.com/yoavger//blob/main/figs/framework.png?raw=true) -->
+
+- To reproduce the figures from the paper: ```code/figures.ipynb```
