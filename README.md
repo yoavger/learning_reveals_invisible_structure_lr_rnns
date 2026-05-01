@@ -5,4 +5,6 @@ We then use this framework to study two central phenomena in neural learning, de
 
 ![Framework](https://github.com/yoavger/learning_reveals_invisible_structure_lr_rnns/blob/main/figures/framework.png)
 
-- To reproduce the figures from the paper: ```code/figures.ipynb```
+- To reproduce the figures from the paper, refer to `code/figures.ipynb`.  
+  The notebook provides options to either load existing data (if available) or train and save new data.
+- A compact demonstration of the learning dynamics equations for both linear and nonlinear theory is provided in `code/linear.ipynb` and `code/nonlinear.ipynb`.
